@@ -1,2 +1,2 @@
-# Hamancab.github.io
-Data Science Portfolio
+# Hamancab Portfolio
+Data Science, Data Analysis Portfolio
