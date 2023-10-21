@@ -25,9 +25,9 @@ Data Science, Data Analysis Portfolio
        - Gradient Boosting Regression
        - AdaBoost Regression
        
-       ![Untitled](https://github.com/Hamancab/Hamancab.github.io/assets/115838680/ed72e36e-20d2-486b-a5e6-e3b5ff16e559)
-       ![Untitled](https://github.com/Hamancab/Hamancab.github.io/assets/115838680/cfb2a7be-b433-43e3-95db-e3936439fc12)
-       ![Untitled](https://github.com/Hamancab/Hamancab.github.io/assets/115838680/3b511603-c7c3-4c0c-b841-bf1e87a1777f)
+       ![](House_Sales_1 (2).png)
+       ![](House_Sales_2.png)
+       ![](House_Sales_3.png)
        
         Lasso: Mean Squared Error 
         = 215666797450.66583
