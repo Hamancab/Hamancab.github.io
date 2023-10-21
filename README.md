@@ -25,22 +25,22 @@ Data Science, Data Analysis Portfolio
        - Gradient Boosting Regression
        - AdaBoost Regression
 
-        Lasso: Mean Squared Error 
-        = 215666797450.66583
-        LinearRegression: Mean Squared Error 
-        = 215651794191.8232
-        Ridge: Mean Squared Error 
-        = 215517385896.6556
-        ElasticNet: Mean Squared Error 
-        = 253516566411.6449
-        KNeighborsRegressor: Mean Squared Error 
-        = 332817179384.6328
-        RandomForestRegressor: Mean Squared Error 
-        = 182480470125.84033
-        GradientBoostingRegressor: Mean Squared Error 
-        = 191651487548.93933
-        AdaBoostRegressor: Mean Squared Error 
-        = 262579193725.14093
+Lasso: Mean Squared Error 
+= 215666797450.66583
+LinearRegression: Mean Squared Error 
+= 215651794191.8232
+Ridge: Mean Squared Error 
+= 215517385896.6556
+ElasticNet: Mean Squared Error 
+= 253516566411.6449
+KNeighborsRegressor: Mean Squared Error 
+= 332817179384.6328
+RandomForestRegressor: Mean Squared Error 
+= 182480470125.84033
+GradientBoostingRegressor: Mean Squared Error 
+= 191651487548.93933
+AdaBoostRegressor: Mean Squared Error 
+= 262579193725.14093
 
 ![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_1%20(2).png)
 ![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_2.png)
