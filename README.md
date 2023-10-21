@@ -25,7 +25,7 @@ Data Science, Data Analysis Portfolio
        - Gradient Boosting Regression
        - AdaBoost Regression
 
-               Lasso: Mean Squared Error 
+        Lasso: Mean Squared Error 
         = 215666797450.66583
         LinearRegression: Mean Squared Error 
         = 215651794191.8232
