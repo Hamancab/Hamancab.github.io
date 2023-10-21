@@ -25,11 +25,7 @@ Data Science, Data Analysis Portfolio
        - Gradient Boosting Regression
        - AdaBoost Regression
 
-![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_1%20(2).png)
-![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_2.png)
-![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_3.png)
-       
-        Lasso: Mean Squared Error 
+               Lasso: Mean Squared Error 
         = 215666797450.66583
         LinearRegression: Mean Squared Error 
         = 215651794191.8232
@@ -46,10 +42,10 @@ Data Science, Data Analysis Portfolio
         AdaBoostRegressor: Mean Squared Error 
         = 262579193725.14093
 
-
-
-
-
+![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_1%20(2).png)
+![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_2.png)
+![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_3.png)
+       
 # [Turkey Population](https://github.com/Hamancab/Turkey_Population)
     • Data Types Changed: The data types were modified as needed.
 
