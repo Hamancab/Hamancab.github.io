@@ -24,10 +24,10 @@ Data Science, Data Analysis Portfolio
        - Random Forest Regression
        - Gradient Boosting Regression
        - AdaBoost Regression
-       
-       ![](House_Sales_1 (2).png)
-       ![](House_Sales_2.png)
-       ![](House_Sales_3.png)
+
+![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_1%20(2).png)
+![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_2.png)
+![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_3.png)
        
         Lasso: Mean Squared Error 
         = 215666797450.66583
@@ -62,16 +62,11 @@ Data Science, Data Analysis Portfolio
 
     -  Data Correlation Calculated and Heat Map Created: Data correlation was calculated, and a heatmap was generated to visualize the relationships between variables.
 
-    ![Untitled](https://github.com/Hamancab/Hamancab.github.io/assets/115838680/df22344d-a636-4b02-986f-a7a400f79b89)
-    ![Untitled](https://github.com/Hamancab/Hamancab.github.io/assets/115838680/73380391-61f3-4573-bd90-769c2df70507)
-    ![Untitled](https://github.com/Hamancab/Hamancab.github.io/assets/115838680/ec137edc-8fb6-42b1-9975-e80b6db10766)
-    ![Untitled](https://github.com/Hamancab/Hamancab.github.io/assets/115838680/b61bdaeb-7b85-405c-8868-f7eaa96cefc0)
-    ![Untitled](https://github.com/Hamancab/Hamancab.github.io/assets/115838680/0b1c6372-8815-463b-8e4c-f0ac08ba1878)
-
-
-
-
-
+![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_1.png)
+![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_2.png)
+![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_3.png)
+![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_4.png)
+![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_5.png)
 
 
 
