@@ -25,22 +25,50 @@ Data Science, Data Analysis Portfolio
        - Gradient Boosting Regression
        - AdaBoost Regression
 
-    Lasso: Mean Squared Error 
-    = 215666797450.66583
-    LinearRegression: Mean Squared Error 
-    = 215651794191.8232
-    Ridge: Mean Squared Error 
-    = 215517385896.6556
-    ElasticNet: Mean Squared Error 
-    = 253516566411.6449
-    KNeighborsRegressor: Mean Squared Error 
-    = 332817179384.6328
-    RandomForestRegressor: Mean Squared Error 
-    = 182480470125.84033
-    GradientBoostingRegressor: Mean Squared Error 
-    = 191651487548.93933
-    AdaBoostRegressor: Mean Squared Error 
-    = 262579193725.14093
+
+    
+    ########## Lasso ##########
+    MAE: 306973.975
+    MSE: 232472906097.5604
+    RMSE: 479684.9899
+    R2: 0.344
+    ########## LinearRegression ##########
+    MAE: 306982.5951
+    MSE: 232488836350.3438
+    RMSE: 479701.3941
+    R2: 0.344
+    ########## Ridge ##########
+    MAE: 306828.6422
+    MSE: 232095777084.772
+    RMSE: 479311.0778
+    R2: 0.345
+    ########## ElasticNet ##########
+    MAE: 341691.1269
+    MSE: 290718587884.6142
+    RMSE: 534600.1951
+    R2: 0.1721
+    ########## KNeighborsRegressor ##########
+    MAE: 390671.8191
+    MSE: 344962246048.91
+    RMSE: 585149.5129
+    R2: 0.0212
+    ########## RandomForestRegressor ##########
+    MAE: 250949.2373
+    MSE: 197226575022.6528
+    RMSE: 440943.0381
+    R2: 0.4469
+    ########## GradientBoostingRegressor ##########
+    MAE: 270924.8931
+    MSE: 204810551887.6018
+    RMSE: 449486.0586
+    R2: 0.4251
+    ########## AdaBoostRegressor ##########
+    MAE: 377253.1867
+    MSE: 283612852600.8068
+    RMSE: 530123.5535
+    R2: 0.1964
+
+
 
 ![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_1%20(2).png)
 ![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_2.png)
