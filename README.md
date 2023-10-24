@@ -81,8 +81,7 @@ Data Science, Data Analysis Portfolio
 
     • Duplicate values  identified and removed from the dataset.
 
-    • Charts Created to Understand Data:
-        - Bar charts, histograms, kernel density estimation (KDE) plots, and scatter charts were generated to gain insights into the data.
+    • Bar charts, histograms, kernel density estimation (KDE) plots, and scatter charts were generated to gain insights into the data.
 
     •  Data correlation calculated, and a heatmap was generated to visualize the relationships between variables.
 
