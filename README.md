@@ -2,21 +2,21 @@
 Data Science, Data Analysis Portfolio
 
 # [House Sale](https://github.com/Hamancab/House_Sale)
-    • Categorical Variable Definition: Categorical variables were defined in the dataset.
+    • Categorical variables defined in the dataset.
 
-    • Duplicate Data Removal: Duplicate data in the dataset was identified and removed.
+    • Duplicate data in the dataset identified and removed.
 
-    • Outlier Detection and Removal using Z-Score: Outlier data was detected and removed using the Z-score.
+    • Outlier data detected and removed using the Z-score.
 
-    • Missing Value Handling: Missing values were identified and filled with the mode value.
+    • Missing values identified and filled with the mode value.
 
-    • Histogram Visualization: A histogram chart was created to visualize the distribution of prices.
+    • A histogram chart created to visualize the distribution of prices.
 
-    • Pair Plot Creation: A pair plot was created to visualize the relationship between all numerical variables and the price variable.
+    • A pair plot  created to visualize the relationship between all numerical variables and the price variable.
 
-    • Categorical Variable Encoding: Label encoding and one-hot encoding were applied to categorical variables.
+    • Label encoding and one-hot encoding applied to categorical variables.
 
-    • Model Training: A range of regression models was trained, which could have included:
+    • Regression models trained, which could have included:
        - Lasso Regression
        - Ridge Regression
        - Elastic Net Regression
@@ -75,16 +75,16 @@ Data Science, Data Analysis Portfolio
 ![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_3.png)
        
 # [Turkey Population](https://github.com/Hamancab/Turkey_Population)
-    • Data Types Changed: The data types were modified as needed.
+    • Data types modified as needed.
 
-    • Empty Values Found and Replaced: Empty values were identified and replaced with appropriate data.
+    • Empty values identified and replaced with appropriate data.
 
-    • Duplicate Values Found and Removed: Duplicate values were identified and removed from the dataset.
+    • Duplicate values  identified and removed from the dataset.
 
     • Charts Created to Understand Data:
         - Bar charts, histograms, kernel density estimation (KDE) plots, and scatter charts were generated to gain insights into the data.
 
-    •  Data Correlation Calculated and Heat Map Created: Data correlation was calculated, and a heatmap was generated to visualize the relationships between variables.
+    •  Data correlation calculated, and a heatmap was generated to visualize the relationships between variables.
 
 ![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_1.png)
 ![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_2.png)
