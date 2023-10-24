@@ -71,8 +71,8 @@ Data Science, Data Analysis Portfolio
 
 
 ![](./images/House_Sales_1%20(2).png)
-![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_2.png)
-![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_3.png)
+![](./images/House_Sales_2.png)
+![](./images/House_Sales_3.png)
        
 # [Turkey Population](https://github.com/Hamancab/Turkey_Population)
     • Data types modified as needed.
@@ -86,11 +86,11 @@ Data Science, Data Analysis Portfolio
 
     •  Data correlation calculated, and a heatmap was generated to visualize the relationships between variables.
 
-![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_1.png)
-![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_2.png)
-![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_3.png)
-![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_4.png)
-![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/Turkey_Population_5.png)
+![](./images/Turkey_Population_1.png)
+![](./images/Turkey_Population_2.png)
+![](./images/Turkey_Population_3.png)
+![](./images/Turkey_Population_4.png)
+![](./images/Turkey_Population_5.png)
 
 
 
