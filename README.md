@@ -75,7 +75,7 @@ Data Science, Data Analysis Portfolio
 ![](./images/House_Sales_3.png)
        
 # [Turkey Population](https://github.com/Hamancab/Turkey_Population)
-    • Data types modified as needed.
+    • Data types modified.
 
     • Empty values identified and replaced with appropriate data.
 
