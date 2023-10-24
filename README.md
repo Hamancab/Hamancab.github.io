@@ -70,7 +70,7 @@ Data Science, Data Analysis Portfolio
 
 
 
-![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_1%20(2).png)
+![](./images/House_Sales_1%20(2).png)
 ![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_2.png)
 ![](https://github.com/Hamancab/Hamancab.github.io/blob/main/images/House_Sales_3.png)
        
