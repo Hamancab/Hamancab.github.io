@@ -1,8 +1,6 @@
 # Berat Hamança Portfolio
 Data Science, Data Analysis Portfolio
 
-https://docs.google.com/presentation/d/1x2IeCw3jj-UxtouiP4_J9sDTvuLVQwL3/edit?usp=drivesdk&ouid=105710026512225239058&rtpof=true&sd=true
-
 # [House Sale](https://github.com/Hamancab/House_Sale)
     • Categorical variables defined in the dataset.
 
